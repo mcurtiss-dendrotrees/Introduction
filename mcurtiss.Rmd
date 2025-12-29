@@ -9,7 +9,9 @@ output: html_document
 Graduate student in Geography and Environmental Systems at UMBC, specializing in spatial analysis, hydrologic modeling, and urban forestry research. My thesis research involves
 long term monitoring of intra-annual stem growth with dendrometer bands installed on a sample of trees (n=99) on the UMBC campus. 
 
-I am finishing my program in Spring 2026 and currently seeking a full time position in urban forestry. My interests extend beyond trees, into surrounding ecosystems and built environments. Moreover, I am passionate about creating long term connections between communities and green spaces, in all of their various forms - to help create climate resilience at local scales guided by community-based leadership and scientific evidence.
+I am finishing my program in Spring 2026 and currently seeking a full time position in urban forestry. My interests extend beyond trees, into surrounding ecosystems and built environments. 
+Moreover, I am passionate about creating long term connections between communities and green spaces, in all of their various forms,
+to help create climate resilience at local scales guided by community-based leadership and scientific evidence.
 
 
 ## 🔧 Technical Skills
